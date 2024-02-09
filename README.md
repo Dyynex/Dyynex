@@ -1,4 +1,4 @@
-## My Profile
+## Justin Chen
 
 #### Reach me at:
 Email: justinchen.jsc@gmail.com
