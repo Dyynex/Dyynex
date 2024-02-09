@@ -1,14 +1,14 @@
 ## My Profile
 
-### Reach me at:
+#### Reach me at:
 Email: justinchen.jsc@gmail.com
 
 
-### I'm currently learning...: 
+#### I'm currently learning...: 
 - RISC-V
 - SQL
 
-### Fun fact:
+#### Fun fact:
 The other day I dropped my phone and caught it with my toes. 
 
 <!--
