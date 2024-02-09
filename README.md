@@ -3,6 +3,8 @@
 #### Reach me at:
 Email: justinchen.jsc@gmail.com
 
+#### I'm studying...: 
+- BSc. Computing Science Specialization in Software at the University of Alberta
 
 #### I'm currently learning...: 
 - RISC-V
