@@ -11,7 +11,7 @@ Email: justinchen.jsc@gmail.com
 - SQL
 
 #### Fun fact:
-The other day I dropped my phone and caught it with my toes. 
+I have a perfect sleep schedule... if I lived in Asia. 
 
 <!--
 **Dyynex/Dyynex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
